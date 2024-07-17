@@ -42,4 +42,10 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <img title='SASS' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />&nbsp;
 <img title='NodeJs' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;
 <img title='npm' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />&nbsp;
-<img title='git' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />&nbsp;
+<img title='git' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+
+### :fire: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grossuAst&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grossuAst&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=grossuAst&theme=default)
