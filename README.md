@@ -17,22 +17,22 @@
 </div>
 <div align="center">
   <h1>
-  Hi, I'm Maxim
+  Привет, я Максим
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> 
 </div>
 
-### :man_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### :man_technologist: Обо мне :
+Я фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+- :writing_hand: Я люблю создавать что-то новое или улучшать старое, доводя это до качественного продукта, которым можно с удовольствием пользоваться.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: Стремлюсь к улучшению своих навыков и расширению своего опыта.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :desktop_computer: Хочу найти команду, с которой смогу вместе создавать что-то интересное, приносящее пользу людям.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Grossoooo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Grossoooo)
+- :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-Grossoooo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Grossoooo)
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 <img title='JavaScript' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
 <img title='TypeScript' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
 <img title='React' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&nbsp;
@@ -44,7 +44,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <img title='npm' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />&nbsp;
 <img title='git' height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grossuAst&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grossuAst&theme=default&utcOffset=8)
