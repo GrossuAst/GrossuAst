@@ -23,7 +23,7 @@
 </div>
 
 ### :man_technologist: Обо мне :
-Я фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :writing_hand: Я люблю создавать что-то новое или улучшать старое, доводя это до качественного продукта, которым можно с удовольствием пользоваться.
 
 - :telescope: Стремлюсь к улучшению своих навыков и расширению своего опыта.
